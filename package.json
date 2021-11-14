@@ -4,6 +4,7 @@
   "description": "learn gulp by building development environment",
   "author": "hrj",
   "license": "ISC",
+  "type": "module",
   "scripts": {
     "dev": "gulp dev",
     "build": "gulp build"
