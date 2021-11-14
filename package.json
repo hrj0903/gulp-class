@@ -12,10 +12,14 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-pug": "^5.0.0",
-    "gulp-image": "^6.2.1"
-  },
-  "dependencies": {
+    "gulp-image": "^6.2.1",
     "del": "^6.0.0",
     "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-csso": "^3.0.1",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.12.0"
   }
 }
