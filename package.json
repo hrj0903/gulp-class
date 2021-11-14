@@ -1,0 +1,14 @@
+{
+  "name": "gulp-class",
+  "version": "1.0.0",
+  "description": "learn gulp by building development environment",
+  "author": "hrj",
+  "license": "ISC",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
